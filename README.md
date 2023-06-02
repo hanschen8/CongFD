@@ -14,3 +14,4 @@
 - Mesh sizes: Inlet & Outlet (15), Wall size (50)
 - Growth Rate: 1.2
 - Size Control Type: Face Size
+- Describe Geometry: The geometry consists of only fluid regions with no voids, no change all fluid-fluid boundary layers from "wall" to "internal", yes to apply shared topology
