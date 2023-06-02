@@ -11,3 +11,6 @@
 
 ## Meshing:
 - Added local sizing
+- Mesh sizes: Inlet & Outlet (15), Wall size (50)
+- Growth Rate: 1.2
+- Size Control Type: Face Size
