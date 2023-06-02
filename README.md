@@ -1,6 +1,6 @@
 # CongFD
 
-## Back To The Basics
+## "Back To The Basics" - Hans Chen, Dave Laygo, Alex Yeh
 
 ## Geometry:
 
