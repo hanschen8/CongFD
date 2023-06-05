@@ -7,6 +7,7 @@
 - SpaceClaim water tight geometry
 - Project rectangles over the vents’
 - Get rid of return air cad
+- need to distinguish sidewalls from roof and floors for conduction and convection
 
 
 ## Meshing:
