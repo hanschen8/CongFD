@@ -19,7 +19,10 @@
 
 ## Solution (Domain):
 - Viscous _ SST k-omega
-- Energy off
+- Energy on
 - Species off
 - Discrete Phase off
-- Materials: Air (rho = const. = 1.225 and viscosity [kg(m s)] = 1.79 * 10^-5)
+- Materials: Air (ideal gas properties)
+- inlet conditions (mass flow inlet: .18 kg/s, 20 C or 293K, everything else same)
+- outlet conditions (mass flow outlet, since system pumps out the same amount of mass of air that it pumps in)
+- 
