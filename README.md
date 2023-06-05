@@ -16,3 +16,10 @@
 - Size Control Type: Face Size
 - Describe Geometry: The geometry consists of only fluid regions with no voids, no change all fluid-fluid boundary layers from "wall" to "internal", yes to apply shared topology
 - Must change to shared topology in space claim not in fluent
+
+## Solution (Domain):
+- Viscous _ SST k-omega
+- Energy off
+- Species off
+- Discrete Phase off
+- Materials: Air (rho = const. = 1.225 and viscosity [kg(m s)] = 1.79 * 10^-5)
