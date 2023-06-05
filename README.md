@@ -30,4 +30,4 @@
 - sidewalls (convection, HTC = 5, Temp = 313K)
 - Spec Dissipation Rate and Energy set to first order upwind
 - set Turb KE, Spec Dissipation Rate, Energy = .75
-- 
+- everything else is standard
