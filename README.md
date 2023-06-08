@@ -23,11 +23,11 @@
 - Energy on
 - Species off
 - Discrete Phase off
-- Materials: Air (ideal gas properties)
-- inlet conditions (mass flow inlet: .18 kg/s, 20 C or 293K, everything else same)
+- Materials: Air (leave as normal)
+- inlet conditions (mass flow inlet: 2.429 kg/s, 20 C or 293K, everything else same)
 - outlet conditions (mass flow outlet, since system pumps out the same amount of mass of air that it pumps in)
-- roof and floor (heat flux = 0)
-- sidewalls (convection, HTC = 5, Temp = 313K)
+- roof and floor[anything not sidewall] (heat flux = 0)
+- sidewalls (convection, HTC = 5, Temp = 303K)
 - Spec Dissipation Rate and Energy set to first order upwind
 - set Turb KE, Spec Dissipation Rate, Energy = .75
 - everything else is standard
