@@ -24,7 +24,7 @@
 - Species off
 - Discrete Phase off
 - Materials: Air (leave as normal)
-- inlet conditions (mass flow inlet: 2.429 kg/s, 20 C or 293K, everything else same)
+- inlet conditions (mass flow inlet: 2.429 kg/s, 20 C or 293K, Use Turb and Length Scale where Lscale = .187)
 - outlet conditions (mass flow outlet, since system pumps out the same amount of mass of air that it pumps in)
 - roof and floor (heat flux = 60 [W/m2])
 - sidewalls (convection, HTC = 5, Temp = 303K)
