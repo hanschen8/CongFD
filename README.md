@@ -25,7 +25,7 @@
 - Discrete Phase off
 - Materials: Air (leave as normal)
 - inlet conditions (mass flow inlet: 2.429 kg/s, 20 C or 293K, Use Turb and Length Scale where Lscale = .187)
-- the mass flow rate of people talking is .2 ng/s https://royalsocietypublishing.org/doi/10.1098/rsfs.2021.0078#:~:text=Mass%20exhalation%20rates%20are%20typically,when%20both%20speaking%20and%20singing.
+- the mass flow rate of people talking is .2 ng/s and 310 https://royalsocietypublishing.org/doi/10.1098/rsfs.2021.0078#:~:text=Mass%20exhalation%20rates%20are%20typically,when%20both%20speaking%20and%20singing.
 - outlet conditions (mass flow outlet, since system pumps out the same amount of mass of air that it pumps in)
 - roof and floor (heat flux = 60 [W/m2])
 - sidewalls (convection, HTC = 5, Temp = 303K)
